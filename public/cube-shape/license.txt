@@ -1,0 +1,11 @@
+Model Information:
+* title:	Impossible Shape
+* source:	https://sketchfab.com/3d-models/impossible-shape-b6382e0a4430470bb4c7fd8f89c6b374
+* author:	Batuhan13 (https://sketchfab.com/Batuhan13)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Impossible Shape" (https://sketchfab.com/3d-models/impossible-shape-b6382e0a4430470bb4c7fd8f89c6b374) by Batuhan13 (https://sketchfab.com/Batuhan13) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
