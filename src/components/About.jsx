@@ -48,11 +48,11 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a creative front-end developer based in New York with experience in
-        javascript and frameworks such as React and Three.js. I enjoy creating
-        solid applications with the idea to produce a functional yet engaging
-        UI. Lets indulge in our artistic nature and bring your projects to life
-        !
+        I'm a creative front-end developer based in New York City with
+        experience in javascript and frameworks such as React and Three.js. I
+        enjoy creating solid applications with the idea to produce a functional
+        yet engaging UI. Lets indulge in our artistic nature and bring your
+        projects to life !
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

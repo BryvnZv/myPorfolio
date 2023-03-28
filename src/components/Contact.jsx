@@ -18,7 +18,6 @@ const Contact = () => {
   const [loading, setLoading] = useState(false);
 
   const handleChange = (e) => {
-    const { target } = e;
     const { name, value } = e.target;
 
     setForm({
@@ -33,8 +32,8 @@ const Contact = () => {
 
     emailjs
       .send(
-        " service_ijgq774",
-        "template_es24sck",
+        "service_gt6us6s",
+        "template_iuplbp1",
         {
           from_name: form.name,
           to_name: "Bryan",
@@ -57,7 +56,7 @@ const Contact = () => {
         },
         (error) => {
           setLoading(false);
-          console.error(error);
+          console.log(error);
 
           alert("Ahh, something went wrong. Please try again.");
         }
