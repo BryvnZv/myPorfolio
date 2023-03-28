@@ -8,10 +8,13 @@ import {
   reactjs,
   tailwind,
   git,
-  carrent,
+  ecommerce,
   jobit,
   tripguide,
   threejs,
+  cryptoapp,
+  dinogame,
+  calc,
 } from "../assets";
 
 export const navLinks = [
@@ -95,7 +98,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: ecommerce,
     source_code_link: "https://github.com/BryvnZv/E-commerce-project",
   },
   {
@@ -116,7 +119,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: cryptoapp,
     source_code_link: "https://github.com/BryvnZv/crypto-app",
   },
   {
@@ -137,7 +140,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: dinogame,
     source_code_link: "https://github.com/BryvnZv/dino-game",
   },
   {
@@ -158,7 +161,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: calc,
     source_code_link: "https://github.com/BryvnZv/calculator-app",
   },
 ];
