@@ -35,7 +35,6 @@ export const navLinks = [
     title: "Resume",
   },
 ];
-
 const services = [
   {
     title: "Web Developer",
