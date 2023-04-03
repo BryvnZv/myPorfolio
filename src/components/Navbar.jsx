@@ -41,7 +41,9 @@ const Navbar = () => {
               //{" "}
               <a
                 href={`${
-                  Link.id == "resume" ? "https://www.google.com" : `#${Link.id}`
+                  Link.id == "resume"
+                    ? "https://www.bryanzapata.com"
+                    : `#${Link.id}`
                 }`}
                 target={Link.id == "resume" ? "_blank" : "_self"}
               >
